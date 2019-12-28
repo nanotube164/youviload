@@ -1,17 +1,22 @@
-#Youtube Video Downlader
+# Youviload
 
-Video downlading with Flask and Pafy
+All packages needed are in requirements.txt.
 
-Tasarımı çok fazla kasmadım. Çok ahım şahım anladığım şey değil sonuçta. Değiştirebilirsiniz İşini yapıyor o önemli :)
+# How to use it 
 
-Aşağıda gereksinimler yazıyor. Pafy ile hallettim olayı ancak pafy de youtube-dl kütüphanesini istiyor.. En alttaki GIF ile nasıl çalıştığını göstermeye çalıştım
+You just need to find ID on Youtube, and copy it on. And you can download it.
 
-### Requirements
+### Step 1:
 
-    - Flask
-    - Pafy
-    - Youtube-Dl
+![Copy ID](https://i.imgur.com/7p7Ta2E.jpg)
 
-### Test
+### Step 2:
 
-[![pre_ass/out.gif](pre_ass/out.gif)](https://raw.githubusercontent.com/aligoren/downtube/master/pre_ass/out.gif)
+![Paste ID](https://i.imgur.com/TnH2jzw.jpg)
+
+### Step 3:
+
+![Click Download](https://i.imgur.com/JQaKzgj.jpg)
+
+
+
